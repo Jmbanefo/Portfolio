@@ -1,0 +1,17 @@
+.resume h2 {
+    color: white;
+}
+
+.resume ul {
+   list-style-type: none;
+
+}
+
+.resume li {
+    color: white;
+    text-align: center;
+}
+
+.resume h3 {
+    font-size: 18px;
+}

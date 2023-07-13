@@ -1,0 +1,22 @@
+
+
+label {
+    font-size: 30px;
+    color: white;
+    display: flex;
+    }
+    
+    input {
+        font-size: 30px;;
+    }
+    
+    .form-input {
+        height: 300px;;
+    }
+    
+    button {
+        font-size: 30px;
+        display: flex;
+        
+        
+    }

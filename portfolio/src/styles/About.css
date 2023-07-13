@@ -1,0 +1,28 @@
+section {
+    /* background: white; */
+    padding: 20px;
+   
+  
+  }
+  
+  section h2 {
+    text-align: center;
+  }
+  
+  img {
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+  
+  }
+  
+  p {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: white;
+    font-size: large;
+    
+  
+  }

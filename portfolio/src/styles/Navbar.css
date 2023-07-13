@@ -1,0 +1,15 @@
+.navbar {
+    height: 60px;
+    text-align: 'end';
+    float: right
+  }
+  
+  .navbar a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    margin: 10px;
+    line-height: 3;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+  }

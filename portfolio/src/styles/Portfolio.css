@@ -1,0 +1,16 @@
+
+section h3 {
+    margin: 0;
+    padding-top: 75px; 
+    text-align: center;
+    color: orange; 
+    font-size: 30x;  
+    font-weight: bold;
+    /* text-decoration: underline; */
+    
+  
+  }  
+  
+  .gitHub_logo {
+    width: 35px;
+  }
